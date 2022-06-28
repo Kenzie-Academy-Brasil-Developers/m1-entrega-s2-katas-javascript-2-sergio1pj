@@ -1,0 +1,10 @@
+num1," num2",result,i,"""Observações"""
+4,"6",-,,
+4,"6",0,-,
+4,"6",0,"1 ","Daqui em diante, haverá 6 iterações, a escolha do valor inicial de i for arbitrária, pois aqui o que importa é numero de repetições;"
+4,"6",4,2,
+4,"6",8,3,
+4,"6",12,4,
+4,"6",16,5,
+4,"6",20,6,
+4,"6","24 ",,"O loop for foi encerrado pq a condição i <= num2 não é mais atentida, isto é, se 7 <= 6 (false). E o valor 24 será retornado pela função multiply."

@@ -1,0 +1,10 @@
+num1," num2",result,i
+4,6,-,
+4,6,0,-
+4,6,0,"1 (daqui em diante, o for será executado 6 vezes, perceba que coloque i =1, mas isso não é tão relevante)."
+4,6,4,2
+4,6,8,3
+4,6,12,4
+4,6,16,5
+4,6,20,6
+4,6,24 (valor retornado pela função multiply),"Loop encerrado 7 <= 6, é claramente falso"
